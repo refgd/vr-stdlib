@@ -1,0 +1,19 @@
+{
+  "name": "vr-stdlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "jsdom": "^23.0.1",
+    "potpack": "^2.0.0",
+    "regenerator-runtime": "^0.14.1",
+    "three-universal": "^0.125.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
